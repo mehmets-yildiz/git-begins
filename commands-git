@@ -2,3 +2,4 @@ git clone repository
 git add nomdefichier.ext
 git commit -m "input"
 git push origin main/master
+git pull origin main/master
